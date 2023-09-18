@@ -1,0 +1,9 @@
+import pandas as pd
+import numpy as np
+import os
+
+metro,precio
+5,375
+15,487
+20,450
+25,500
